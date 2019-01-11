@@ -13,7 +13,6 @@ public class AdapterDesignpattern {
 
 	public static void main(String[] args) {
 		
-		// Object for Xpay
 		VendorB vendorB = new VendorBImplementation();
 		vendorB.setCreditCardNo("4789565874102365");
 		vendorB.setCustomerName("Max Warner");
